@@ -2,7 +2,7 @@ package org.cs278.whammy;
 
 public class App {
 
-        private boolean foo = true;
+        private boolean foo = false;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
